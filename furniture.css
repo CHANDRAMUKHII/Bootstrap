@@ -1,0 +1,23 @@
+section {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.box {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.box img {
+  width: 10em;
+}
+
+.carousel {
+  display: block;
+  width: 50%;
+  height: 200px;
+}
